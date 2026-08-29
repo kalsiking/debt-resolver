@@ -1,16 +1,3 @@
-# Debt Resolution Assistant
-
-A Python-based financial assistance tool designed to help people who are struggling with debt and financial difficulties. The project aims to make debt management simpler by helping users understand their financial situation, organize debts, create realistic repayment plans, and explore practical strategies for becoming debt-free.
-
-## Goals
-📊 Analyze income, expenses, and outstanding debts
-💰 Help users create realistic debt repayment plans
-📅 Prioritize debts based on factors such as interest rates and balances
-🧮 Calculate repayment timelines and potential interest costs
-💡 Provide actionable suggestions for improving financial stability
-🔒 Keep financial data private and minimize unnecessary data collection
-🐍 Provide a modular Python codebase that can be extended with new financial tools
-
 # 💰 Debt Resolution Assistant
 
 Debt Resolution Assistant is an open-source, Python-based financial planning tool designed to help people who are struggling with debt and financial instability.
@@ -147,10 +134,11 @@ debt-resolution-assistant/
 ├── LICENSE
 └── README.md
 
+```
 The project is intended as an educational and supportive tool, not as a replacement for professional financial advice. Its goal is to give people a clearer picture of their finances and help them take practical steps toward reducing their debt.
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 Debt Resolution Assistant is a software project intended for educational and informational purposes.
 
 It does not provide:
@@ -166,7 +154,7 @@ Calculations are estimates based on information provided by the user and assumpt
 
 Users should verify important financial information with their lenders and consider consulting qualified financial or credit professionals before making significant decisions.
 
- 💙 Mission
+ ## 💙 Mission
 The long-term goal of Debt Resolution Assistant is simple:
 
 Make debt management easier to understand and more accessible to people who are struggling financially.
@@ -175,13 +163,13 @@ Financial difficulty should not prevent someone from understanding their options
 
 By combining Python, transparent calculations, privacy-focused design, and accessible financial education, this project aims to give users a practical starting point for taking control of their debt.
 
-⭐ Support the Project
+## ⭐ Support the Project
 If you find this project useful:
 
-⭐ Star the repository
-🐛 Report bugs
-💡 Suggest features
-🔧 Contribute code
-📖 Improve the documentation
-🤝 Share the project with others who may benefit
+* ⭐ Star the repository
+* 🐛 Report bugs
+* 💡 Suggest features
+* 🔧 Contribute code
+* 📖 Improve the documentation
+* 🤝 Share the project with others who may benefit
 Every contribution can help make financial tools more accessible.
