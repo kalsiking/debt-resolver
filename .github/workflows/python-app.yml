@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
     - name: Set up Python 3.12
       uses: actions/setup-python@v7
       with:
@@ -37,4 +37,9 @@ jobs:
         # Step 4: Run your script or execute tests
     - name: Run Python script
       run: python debt-planner.py
+    - name: Upload PDF output
+      uses: actions/upload-artifact@v7
+      with:
+        name: debt-tracker-pdf
+        path: generated/
 
