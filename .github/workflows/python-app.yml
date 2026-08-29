@@ -36,5 +36,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
         # Step 4: Run your script or execute tests
     - name: Run Python script
-      run: python debt-resolver.py
+      run: python debt-planner.py
 
